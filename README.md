@@ -1,7 +1,7 @@
-# 🪦Welcome to the Tomb.Finance ecosystem🪦
-
+# 🪦Welcome to the 2omb ecosystem🪦
+[
 Thanks for taking the time to contribute!
-You can start by reading our [Contribution guidelines](CONTRIBUTING.md) first.
+You can start by reading our [Contribution guidelines](CONTRIBUTING.md) first.](url)
 
 ## Setup
 
@@ -33,6 +33,6 @@ npx prettier --write .
 ## Useful Resources
 
 - [Our project documentation](https://docs.2omb.finance/) will help you understand before start contributing
-- Join our [Discord](https://discord.gg/tombfinance) community
-- Or if you are more of a [Telegram Zombie](https://discord.gg/tombfinance) we have that too
-- Bugs? Use the [Issues](https://github.com/tombfinance/tombfinance-frontend/issues) section of our github to report them
+- Join our [Discord](https://discord.gg/GYYwUKQdgu) community
+- Or if you are more of a [Telegram Zombie](https://t.me/+ixpXDfee5EIzNmYx) we have that too
+- Bugs? Use the [Issues]() section of our github to report them
