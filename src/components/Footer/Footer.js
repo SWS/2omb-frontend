@@ -44,7 +44,7 @@ const Footer = () => {
           <Grid item xs={6}>
             <Typography variant="body2" color="textSecondary" align="left">
               <Link color="inherit" href="/">
-                2omb Finance
+                2omb
               </Link>
             </Typography>
           </Grid>
