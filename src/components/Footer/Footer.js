@@ -57,7 +57,7 @@ const Footer = () => {
             >
               <img alt="twitter" src={TwitterImage} className={classes.img} />
             </a>
-            <a href="https://t.me/community2ombchat" rel="noopener noreferrer" target="_blank" className={classes.link}>
+            <a href="https://bit.ly/3AUcaBI" rel="noopener noreferrer" target="_blank" className={classes.link}>
               <img alt="telegram" src={TelegramImage} className={classes.img} />
             </a>
             <a
